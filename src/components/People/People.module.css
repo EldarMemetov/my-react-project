@@ -1,0 +1,112 @@
+
+.peopleList {
+    border: 2px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 250px; 
+    background: linear-gradient(45deg, #ffffff, #f8f5ed, #b3e9b3, #9a9aa0);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .peopleList:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+
+  .peopleList img {
+    border-radius: 50%;
+    border: 3px solid #ddd;
+    display: block;
+    margin: 0 auto 15px auto;
+  }
+  
+
+  .peopleList h2 {
+    font-size: 1.5em;
+    color: #333;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+
+  .peopleList p {
+    font-size: 1em;
+    color: #666;
+    margin: 5px 0;
+    text-align: center;
+  }
+  
+
+  .peopleList .infoText {
+    font-style: italic;
+    color: #444;
+  }
+  
+
+  .peopleList button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 0.9em;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .peopleList button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+  }
+  
+
+  .peopleList button:last-child {
+    background-color: #dc3545;
+  }
+  
+  .peopleList button:last-child:hover {
+    background-color: #c82333;
+  }
+  
+
+  .peopleList p:last-of-type {
+    font-weight: bold;
+  }
+  li{
+    list-style: none;
+
+  }
+
+  .peopleList .status,
+  .peopleList .likes {
+    font-weight: bold;
+  }
+  
+
+  .peopleList .status {
+    color: #333;
+  }
+  
+
+  .peopleList .likes {
+    color: #555;
+  }
+  
+
+  .peopleList .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+    flex-direction: column;
+  }
+  

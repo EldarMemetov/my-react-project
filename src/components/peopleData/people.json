@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Mickey Mouse",
+    "age": 92,
+    "city": "Toontown",
+    "status": "online",
+    "photo": "https://img.freepik.com/free-photo/cute-ai-generated-cartoon-bunny_23-2150288890.jpg?size=338&ext=jpg&ga=GA1.1.1788614524.1718323200&semt=ais_user",
+    "info": "Some info about John"
+  },
+  {
+    "id": 2,
+    "name": "Donald Duck",
+    "age": 86,
+    "city": "Duckburg",
+    "status": "offline",
+    "photo": "https://st.depositphotos.com/1036149/3347/i/450/depositphotos_33472707-stock-photo-giraffe.jpg",
+    "info": "Some info about John"
+  },
+  {
+    "id": 3,
+    "name": "Bugs Bunny",
+    "age": 80,
+    "city": "Looneyville",
+    "status": "online",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/220px-Bugs_Bunny.svg.png",
+    "info": "Some info about John"
+  },
+  {
+    "id": 4,
+    "name": "SpongeBob SquarePants",
+    "age": 34,
+    "city": "Bikini Bottom",
+    "status": "offline",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/220px-SpongeBob_SquarePants_character.svg.png",
+    "info": "Some info about John"
+  },
+  {
+    "id": 5,
+    "name": "Scooby-Doo",
+    "age": 52,
+    "city": "Crystal Cove",
+    "status": "online",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Scooby-Doo.png/220px-Scooby-Doo.png",
+    "info": "Some info about John"
+  },
+  {
+    "id": 6,
+    "name": "Tom Cat",
+    "age": 81,
+    "city": "Cartoon Land",
+    "status": "offline",
+    "photo": "https://img.freepik.com/free-photo/cute-cat-in-nature_23-2150932113.jpg",
+    "info": "Some info about John"
+  },
+  {
+    "id": 7,
+    "name": "Jerry Mouse",
+    "age": 81,
+    "city": "Cartoon Land",
+    "status": "online",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Jerry_Mouse.png/220px-Jerry_Mouse.png",
+    "info": "Some info about John"
+  },
+  {
+    "id": 8,
+    "name": "Pikachu",
+    "age": 25,
+    "city": "Pallet Town",
+    "status": "offline",
+    "photo": "https://static5.depositphotos.com/1036149/458/i/450/depositphotos_4586536-stock-illustration-sad-bee-illustration.jpg",
+    "info": "Some info about John"
+  },
+  {
+    "id": 9,
+    "name": "Dora the Explorer",
+    "age": 10,
+    "city": "Explorer City",
+    "status": "online",
+    "photo": "https://kartinki.pics/uploads/posts/2022-02/thumbs/1645863257_8-kartinkin-net-p-kartinki-personazhei-iz-multikov-8.jpg",
+    "info": "Some info about John"
+  },
+  {
+    "id": 10,
+    "name": "Shrek",
+    "age": 38,
+    "city": "Far Far Away",
+    "status": "offline",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Shrek_%28character%29.png/220px-Shrek_%28character%29.png",
+    "info": "Some info about John"
+  }
+]
